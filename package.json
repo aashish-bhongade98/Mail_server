@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@types/smtp-server": "^3.5.10",
     "smtp-server": "^3.13.5"
   }
 }
